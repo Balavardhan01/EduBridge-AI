@@ -1,4 +1,4 @@
-import { Award, Briefcase, Calendar, Check, ExternalLink } from 'lucide-react'
+import { Award, Calendar, Check, ExternalLink } from 'lucide-react'
 import { useState } from 'react'
 import { useAppContext } from '../../context/AppContext'
 import { getTranslation } from '../../utils/translations'
