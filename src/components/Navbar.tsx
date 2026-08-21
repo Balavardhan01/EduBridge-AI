@@ -1,4 +1,4 @@
-import { BarChart3, Globe, Moon, Settings } from 'lucide-react'
+import { BarChart3, Moon} from 'lucide-react'
 import { useAppContext } from '../context/AppContext'
 import { getTranslation } from '../utils/translations'
 
